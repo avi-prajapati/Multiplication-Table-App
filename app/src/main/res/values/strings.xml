@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Table</string>
+    <string name="multiplication_table">Multiplication Table</string>
+    <string name="button">Button</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="button1">Button</string>
+    <string name="table">Table</string>
+</resources>
