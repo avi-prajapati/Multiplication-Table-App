@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⭐Note:</p>
+<p align="left">⭐Note: The Purpose of the Simple Multiplication Table App is to show the table of any Number.</p>
 
 ###
 
@@ -10,11 +10,14 @@
 
 ###
 
-<p align="left">📲</p>
+<p align="left">📲Easy to use Application build with Java and XML, offering Table Feature.</p>
 
 ###
 
 <h2 align="left">📸Screenshots</h2>
+
+###
+**Actual app looks even better! 😃**
 
 ###
 
@@ -28,7 +31,9 @@
 
 ###
 
-<p align="left">👩‍🏫 User-Friendly Interface – Easy to use.</p>
+<p align="left">🔢 Show the table of any Number.<br><br>👩‍🏫 User-Friendly Interface – Easy to use.<br><br>📖 Table are shown in this pattern 2X1=2, 2X2=4.<br><br></p>
+
+
 
 ###
 
@@ -44,6 +49,7 @@
 
 ###
 
-<p align="left">🔸<br>🔸<br>🔸<br>🔸<br>🔸</p>
+<p align="left">🔸Table App<br><br>🔸<br><br>🔸Java Application<br><br>🔸Single Screen App.</p>
+
 
 ###
