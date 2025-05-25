@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">🔸Table App<br><br>🔸<br><br>🔸Java Application<br><br>🔸Single Screen App.</p>
+<p align="left">🔸Table App<br><br>🔸Multiplication Table App<br><br>🔸Java Application<br><br>🔸Single Screen App.</p>
 
 
 ###
